@@ -7,6 +7,7 @@
   
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bhagavad Gita As It Is - A.C. Bhaktivedanta Swami Prabhupada - PDF](https://blog.samirpaul.in/2024/04/bhagavad-gita-as-it-is.html)
 - [Difference between Multiprogramming, Multitasking, Multithreading, and Multiprocessing](https://blog.samirpaul.in/2023/06/difference-between-multiprogramming.html)
 - [Difference between Multiprogramming and Multitasking in Operating System](https://blog.samirpaul.in/2023/06/difference-between-multiprogramming-and.html)
 - [Data Structures &amp; Algorithms for Coding Interview](https://blog.samirpaul.in/2022/07/dsalgo-repository-that-contains-all.html)
@@ -21,5 +22,4 @@
 - [System Design Primer](https://blog.samirpaul.in/2023/05/system-design-primer.html)
 - [URL Shortening Service](https://blog.samirpaul.in/2023/05/url-shortening-service.html)
 - [Why Does The OSI Model Matter?](https://blog.samirpaul.in/2023/05/why-does-osi-model-matter.html)
-- [Website Hosting Cloud VPS Domain Keywords with High Google Adsense CPC](https://blog.samirpaul.in/2023/05/website-hosting-cloud-vps-domain.html)
 <!-- BLOG-POST-LIST:END -->
